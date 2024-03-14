@@ -17,7 +17,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Software Engenieer</h3>
               <p>
                 I'm a frontend developer with experience in building responsive
                 and optimized sites
@@ -27,20 +27,19 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Data Expert</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+              I am deeply passionate about harnessing the power of data to drive informed decision-making across various sectors. My academic journey and internships have equipped me with robust Python, SQL, Scikit-learn, pandas, numpy, and Excel skills.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Assisant Director</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+               As Assistant Director at Riverside Education Center, my role has honed my leadership abilities, 
+               where I've successfully directed website and advertising campaigns, resulting in a significant 20% enrollment increase. I thrive on challenges and continuously seek opportunities to grow professionally and innovate within the tech and data landscapes.
               </p>
             </div>
           </li>
