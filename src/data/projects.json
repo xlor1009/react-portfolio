@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "House Price Prediction Machine Learning Model",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": " Created an ML Model in Python that given home information could give an estimate of a home’s price.  Using Scikit-learn, Pandas, and NumPy to load and transform a dataset for training.  Utilized Flask to create a web app to allow a user to input values into the model and return an estimate.",
+    "skills": ["Python", "Scikit-Learn", "Flask "],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/xlor1009/Housing-prediction"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Parking Management Database & WebApp",
+    "imageSrc": "projects/database.png",
+    "description": " Partnered with four classmates to create a database and web app, using MySQL, HTML, PHP, and PicoCSS. The web app facilitates user parking reservations for events and allows administrative features for event and parking management. Led the development of a web app, ensuring effective collaboration with the team to understand individual roles and meet their needs for successful implementation.",
+    "skills": ["PHP", "MySQL", "HTML", "CSS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/xlor1009/CSE3241Final"
   },
   {
-    "title": "Project C",
+    "title": "Halal Bytes",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "Working closely with peers to create a website that lists halal restaurants in your local area, after recognizing the absence of such a platform. Utilized Ruby on Rails for the backend, Bootstrap for the front, and PostgreSQL for the database.",
+    "skills": ["JQuery", "Ruby", "PostgreSQL"],
+    "demo": "http://vps-e0bdeadf.vps.ovh.us/restaurants",
     "source": "https://www.github.com"
   }
 ]

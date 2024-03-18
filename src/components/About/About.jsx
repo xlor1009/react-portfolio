@@ -17,29 +17,31 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Software Engenieer</h3>
-              <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              <h3>Technical Innovator</h3>
+              <p><br></br>
+              As a dynamic software engineer, I specialize in full-stack development, 
+              crafting responsive and optimized websites that captivate users. 
+              My proficiency extends to Java, C++, and Python, enabling me to deliver innovative solutions that push boundaries.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Data Expert</h3>
-              <p>
-              I am deeply passionate about harnessing the power of data to drive informed decision-making across various sectors. My academic journey and internships have equipped me with robust Python, SQL, Scikit-learn, pandas, numpy, and Excel skills.
+              <h3>Data Fanatic</h3>
+              <p><br></br>
+              With a fervent passion for data analysis, I bring a wealth of experience in Python, SQL, and Scikit-learn to the table. 
+              My background in building predictive models and extracting actionable insights equips me to drive informed decision-making and fuel business growth.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Assisant Director</h3>
-              <p>
-               As Assistant Director at Riverside Education Center, my role has honed my leadership abilities, 
-               where I've successfully directed website and advertising campaigns, resulting in a significant 20% enrollment increase. I thrive on challenges and continuously seek opportunities to grow professionally and innovate within the tech and data landscapes.
+              <h3>Leadership Enthusiast</h3>
+              <p><br></br>
+              As an Assistant Director at Riverside Education Center, I've honed my leadership prowess through managing website development projects and advertising campaigns. 
+              My strategic approach has led to a notable 20% increase in enrollment, showcasing my dedication to driving results and fostering growth.
               </p>
             </div>
           </li>

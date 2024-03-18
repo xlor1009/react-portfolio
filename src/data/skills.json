@@ -14,17 +14,53 @@
   {
     "title": "Node",
     "imageSrc": "skills/node.png"
+  },  
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "PHP",
+    "imageSrc": "skills/php.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "ArcGIS",
+    "imageSrc": "skills/arcgispro.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/Tableau.png"
+  },
+  {
+    "title": "SAS",
+    "imageSrc": "skills/sas.png"
+  },
+  {
+    "title": "Postgres",
+    "imageSrc": "skills/postgres.png"
+  },
+  {
+    "title": "Ruby",
+    "imageSrc": "skills/ruby.png"
   }
 ]
